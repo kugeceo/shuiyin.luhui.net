@@ -1,12 +1,16 @@
 # 鲁虺图片在线水印打码工具v1.0
 
-专门用于给身份证等敏感证件打码的工具，完全基于浏览器本地API，无任何网络请求
+专门用于给身份证等敏感证件打码的工具，完全基于浏览器本地API，无任何网络请求。
 
-
+代码映像在运营
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d6404890-de48-4d04-bb3c-674677490ce9/deploy-status)](https://app.netlify.com/sites/shuiyin/deploys)
 
+
+免费域名演示地址
 http://shuiyin.netlify.com
 
+
+自定义域名演示地址
 http://shuiyin.luhui.net
 
 
